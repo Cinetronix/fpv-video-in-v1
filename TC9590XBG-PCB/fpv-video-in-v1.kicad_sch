@@ -3853,7 +3853,7 @@
     )
     (pin "1" (uuid cf506fd7-27df-4003-8780-1ee7a0e8dadf))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "TP3") (unit 1)
         )
@@ -3879,7 +3879,7 @@
     (pin "1" (uuid ebd83c58-0595-42ad-9281-6451fbd302f2))
     (pin "2" (uuid b8f4c524-66b2-4390-bb3c-47f6b9711385))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C12") (unit 1)
         )
@@ -3904,7 +3904,7 @@
     )
     (pin "1" (uuid fbc4f632-4f5a-487a-8e3c-42e8158773eb))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR034") (unit 1)
         )
@@ -3935,7 +3935,7 @@
     (pin "1" (uuid b70654a4-721b-4e0b-8a94-83318d1d8d9f))
     (pin "2" (uuid f1a95f93-87b0-4e68-a631-b712e5076315))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "X1") (unit 1)
         )
@@ -3960,7 +3960,7 @@
     )
     (pin "1" (uuid 2c891931-437a-4d0f-aac5-c86c5155a921))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "TP2") (unit 1)
         )
@@ -3986,7 +3986,7 @@
     (pin "2" (uuid fe161035-f4da-423d-a7c9-51e89e54bbff))
     (pin "1" (uuid 21084897-b8ee-46bc-b2b9-6eee68fe634a))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "D1") (unit 1)
         )
@@ -4011,7 +4011,7 @@
     )
     (pin "1" (uuid 5e6dff6d-92ab-4801-bf1b-9e299d2d9bb6))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR032") (unit 1)
         )
@@ -4036,7 +4036,7 @@
     )
     (pin "1" (uuid ab3ac7c0-96e5-4940-b115-72161656a332))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR03") (unit 1)
         )
@@ -4061,7 +4061,7 @@
     )
     (pin "1" (uuid c59cfe60-3212-40ce-92c2-fdbd9eadb5fe))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR029") (unit 1)
         )
@@ -4087,7 +4087,7 @@
     (pin "1" (uuid 8f1ea12f-889d-4200-b6a8-036a0a5de78f))
     (pin "2" (uuid 4cac8776-e06b-4451-8e98-72114f8493d4))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C15") (unit 1)
         )
@@ -4113,7 +4113,7 @@
     (pin "1" (uuid c247c6f4-cc49-4680-99b7-de509fb05afc))
     (pin "2" (uuid efe84dbe-a051-445a-9362-de4d95e3c83b))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C16") (unit 1)
         )
@@ -4139,7 +4139,7 @@
     (pin "1" (uuid c37bed70-04dc-478f-acdd-c6dd00abe6cf))
     (pin "2" (uuid bb22defd-16a9-408b-af09-64d7f3aa98ab))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "R2") (unit 1)
         )
@@ -4164,7 +4164,7 @@
     )
     (pin "1" (uuid 77a11f10-b03e-4493-a4de-ce90225d4a07))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR035") (unit 1)
         )
@@ -4189,7 +4189,7 @@
     )
     (pin "1" (uuid 8c5e58ed-8297-4b4c-b195-f368084772f5))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR041") (unit 1)
         )
@@ -4214,7 +4214,7 @@
     )
     (pin "1" (uuid 1c33f413-2408-4de6-9598-a817e45b4073))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR04") (unit 1)
         )
@@ -4239,7 +4239,7 @@
     )
     (pin "1" (uuid 2b2d5609-d61f-4556-9e79-1efe7034a438))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR018") (unit 1)
         )
@@ -4264,7 +4264,7 @@
     )
     (pin "1" (uuid f4a1ba70-6fc4-41a7-af9b-a410c6f55a91))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR02") (unit 1)
         )
@@ -4289,7 +4289,7 @@
     )
     (pin "1" (uuid 5c6db4cc-af97-45cc-882b-edc38634f06f))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR042") (unit 1)
         )
@@ -4314,7 +4314,7 @@
     )
     (pin "1" (uuid 817e7073-fc39-4bf4-9452-9776f58de6ea))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR047") (unit 1)
         )
@@ -4339,7 +4339,7 @@
     )
     (pin "1" (uuid 5679fe1f-e92d-4db7-9747-15ff3947fcd9))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR014") (unit 1)
         )
@@ -4364,7 +4364,7 @@
     )
     (pin "1" (uuid 75133c7b-6ebf-4636-a2fc-4b0e864bd24c))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR038") (unit 1)
         )
@@ -4390,7 +4390,7 @@
     (pin "1" (uuid 4d7406d5-9bfe-4041-a991-65f61943304e))
     (pin "2" (uuid 5a9227f0-19a3-47da-b813-1414fc8940b3))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C14") (unit 1)
         )
@@ -4415,7 +4415,7 @@
     )
     (pin "1" (uuid 8f0a5237-99ff-42e4-abd2-433d973717a4))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR039") (unit 1)
         )
@@ -4459,7 +4459,7 @@
     (pin "1" (uuid 20479e4a-017b-4777-9296-c3bf51f55fca))
     (pin "19" (uuid ba54a79f-3e11-42e2-8233-f953c4f5ab11))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "J1") (unit 1)
         )
@@ -4484,7 +4484,7 @@
     )
     (pin "1" (uuid e689175a-a52e-4c75-92a4-95290e176722))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR027") (unit 1)
         )
@@ -4509,7 +4509,7 @@
     )
     (pin "1" (uuid 5ade25ec-18cd-47dc-bc5c-21e5067f04ec))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR033") (unit 1)
         )
@@ -4534,7 +4534,7 @@
     )
     (pin "1" (uuid ab0404a6-c2d0-4dd6-afce-492d27feb4ec))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "H1") (unit 1)
         )
@@ -4560,7 +4560,7 @@
     (pin "1" (uuid 0c41c965-935c-46a2-a13a-c53229c3adc0))
     (pin "2" (uuid da8e68a0-16c7-479b-bdbf-651f5bb04cd8))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "R5") (unit 1)
         )
@@ -4591,7 +4591,7 @@
     (pin "1" (uuid 45708d6e-30f1-4ef8-9f83-f00e4418fb5a))
     (pin "2" (uuid 8151be87-d831-4d67-b84a-88e0e6d75c49))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "Y1") (unit 1)
         )
@@ -4616,7 +4616,7 @@
     )
     (pin "1" (uuid 5fb80277-f3c2-4c47-99ce-a861e037d46a))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR044") (unit 1)
         )
@@ -4641,7 +4641,7 @@
     )
     (pin "1" (uuid a0b876eb-43df-4af7-9cbd-448b84c03aff))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR09") (unit 1)
         )
@@ -4666,7 +4666,7 @@
     )
     (pin "1" (uuid 60931196-13e8-49f7-8a45-9f5bbdfc6a45))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR022") (unit 1)
         )
@@ -4692,7 +4692,7 @@
     (pin "2" (uuid bea7cddd-40d1-477a-9a47-1b142051c31b))
     (pin "1" (uuid 47ad5d83-71be-473c-af25-aa0284e38f7d))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "D4") (unit 1)
         )
@@ -4717,7 +4717,7 @@
     )
     (pin "1" (uuid 3140e632-18c5-4461-8645-a58849574632))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "H2") (unit 1)
         )
@@ -4743,7 +4743,7 @@
     (pin "1" (uuid 6be50531-e178-4057-8222-33d59165e5d8))
     (pin "2" (uuid c61b0154-407c-4db4-b1c5-81859aa73018))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C6") (unit 1)
         )
@@ -4769,7 +4769,7 @@
     (pin "1" (uuid 03932043-f667-4e0b-b317-4a43701984da))
     (pin "2" (uuid d5cd6ce4-8614-436c-b01d-cfc30c58dd4d))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C17") (unit 1)
         )
@@ -4794,7 +4794,7 @@
     )
     (pin "1" (uuid 2286decd-54d5-4af3-a7c3-33db2edde7f7))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR015") (unit 1)
         )
@@ -4819,7 +4819,7 @@
     )
     (pin "1" (uuid 6e238d22-191f-4324-af52-bb3bf5241e32))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR016") (unit 1)
         )
@@ -4845,7 +4845,7 @@
     (pin "1" (uuid d5ea5dda-250d-469b-877f-92dbd8d287a1))
     (pin "2" (uuid e18c4961-648d-47cb-a8fe-fe47ffac6f6f))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C13") (unit 1)
         )
@@ -4870,7 +4870,7 @@
     )
     (pin "1" (uuid 1723b9c0-4b4c-45a3-b6f0-85122142ee6b))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR040") (unit 1)
         )
@@ -4896,7 +4896,7 @@
     (pin "1" (uuid 599f8e56-4783-4f84-aab1-558acb6ef3a8))
     (pin "2" (uuid 0322e852-f9a9-40fb-af97-25cb99195d7c))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C7") (unit 1)
         )
@@ -4921,7 +4921,7 @@
     )
     (pin "1" (uuid e51a050d-2bcb-469b-9ab1-ba4056d022cd))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR021") (unit 1)
         )
@@ -4946,7 +4946,7 @@
     )
     (pin "1" (uuid 42d06e02-a9ec-4697-a8f0-84182e06c8cf))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR019") (unit 1)
         )
@@ -4971,7 +4971,7 @@
     )
     (pin "1" (uuid d39c77df-72bd-4b06-b584-136f5e6716ba))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR010") (unit 1)
         )
@@ -4996,7 +4996,7 @@
     )
     (pin "1" (uuid f563888b-a131-4e37-b8cd-586319f505bc))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "H4") (unit 1)
         )
@@ -5022,7 +5022,7 @@
     (pin "1" (uuid 04447ce3-8b12-4f0c-8669-fd3333bcbea6))
     (pin "2" (uuid aeae0a47-670c-4e81-b9dd-8fa41dbf6c8a))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C2") (unit 1)
         )
@@ -5146,7 +5146,7 @@
     (pin "H4" (uuid d0a99607-310a-4131-ab61-f8b476241079))
     (pin "H3" (uuid 93da4f04-b687-497b-b2be-079bd4be58cd))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "U4") (unit 1)
         )
@@ -5171,7 +5171,7 @@
     )
     (pin "1" (uuid a02f0215-5f14-4e36-9a81-17e2890cf9d4))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR08") (unit 1)
         )
@@ -5196,7 +5196,7 @@
     )
     (pin "1" (uuid 20759bc8-e2d0-430a-8170-da4e4498bc89))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR011") (unit 1)
         )
@@ -5221,7 +5221,7 @@
     )
     (pin "1" (uuid 1d16d5b4-1bec-4d71-be4f-8f8c5e36aa7e))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "TP5") (unit 1)
         )
@@ -5341,7 +5341,7 @@
     (pin "6" (uuid 876cc54e-7b29-43d3-8f06-ef7ecf4743ad))
     (pin "3" (uuid 5f1d08b9-04ad-4480-ae65-6dc2617438f4))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "U1") (unit 1)
         )
@@ -5370,7 +5370,7 @@
     (pin "5" (uuid 526103d8-1389-4a43-8869-0a69896fad81))
     (pin "3" (uuid e9483f34-1a39-4e8c-a152-523c768fe66e))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "U5") (unit 1)
         )
@@ -5396,7 +5396,7 @@
     (pin "2" (uuid a06a8165-ad59-4a1f-b889-df102bfdbed0))
     (pin "1" (uuid e88b5501-e408-43b6-add8-8d9ac498b5b9))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "D2") (unit 1)
         )
@@ -5421,7 +5421,7 @@
     )
     (pin "1" (uuid 8c2f7d3c-f616-4ed2-bde5-5e64b1fe3d4f))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "H3") (unit 1)
         )
@@ -5447,7 +5447,7 @@
     (pin "1" (uuid 419f95d8-c61b-4805-85ad-05b481781559))
     (pin "2" (uuid a05ee8a5-d0c7-4217-acab-0e3f70d4bcbd))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C5") (unit 1)
         )
@@ -5472,7 +5472,7 @@
     )
     (pin "1" (uuid 3cf57032-6d31-4080-b069-4ce65c850486))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "TP4") (unit 1)
         )
@@ -5504,7 +5504,7 @@
     (pin "7" (uuid 8bded0ca-a2f0-4244-b29d-9ea57f911225))
     (pin "8" (uuid 1328f6dd-efd5-4d9d-a0df-451febf4d055))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "U6") (unit 1)
         )
@@ -5529,7 +5529,7 @@
     )
     (pin "1" (uuid fce0cba8-8437-4f50-9617-93434f21dab3))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR023") (unit 1)
         )
@@ -5554,7 +5554,7 @@
     )
     (pin "1" (uuid 60e0af30-ceda-474b-9f20-0da2d3a7498c))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR031") (unit 1)
         )
@@ -5579,7 +5579,7 @@
     )
     (pin "1" (uuid 7c598569-718d-4605-ad53-dc5f354a73b5))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR025") (unit 1)
         )
@@ -5604,7 +5604,7 @@
     )
     (pin "1" (uuid ce64e4dc-6b3b-46dc-b1cf-9c6d32b9a7ea))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR045") (unit 1)
         )
@@ -5674,7 +5674,7 @@
     (pin "3" (uuid 81333148-e294-4aca-afdb-f524ba0310bc))
     (pin "21" (uuid 335d9536-a5c1-45c9-b5f7-4d08cb3f67c4))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "J2") (unit 1)
         )
@@ -5700,7 +5700,7 @@
     (pin "1" (uuid 1b99b381-b60a-4342-aefc-5552c6d68d9d))
     (pin "2" (uuid 77e9eaa4-9c54-4ca6-bf2e-1e2d2d304289))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "R1") (unit 1)
         )
@@ -5725,7 +5725,7 @@
     )
     (pin "1" (uuid d7b2bd6f-2f6f-4e3f-aefd-57de697dfa51))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR06") (unit 1)
         )
@@ -5751,7 +5751,7 @@
     (pin "1" (uuid 5d3a6c20-9a68-4a38-98b0-6092e29fac80))
     (pin "2" (uuid 04242c24-e835-42b2-9e4f-af5a7b8aca55))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "R3") (unit 1)
         )
@@ -5803,7 +5803,7 @@
     (pin "8" (uuid 3c06d14b-62b3-4761-a365-664f84e233ff))
     (pin "8" (uuid 127bc2f8-37b6-4462-ad88-cfac06756ee3))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "U3") (unit 1)
         )
@@ -5829,7 +5829,7 @@
     (pin "1" (uuid 03a17cb8-6873-473c-8b4d-5b4543f97b82))
     (pin "2" (uuid bf2beb40-4e09-4ce9-bdac-b8e7fbdd62c1))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "R4") (unit 1)
         )
@@ -5854,7 +5854,7 @@
     )
     (pin "1" (uuid 5c57c5df-5140-4ab3-8b55-0ba0c77e09d2))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR046") (unit 1)
         )
@@ -5879,7 +5879,7 @@
     )
     (pin "1" (uuid f114b5f8-deac-4ae3-b70e-d033a5e02358))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR020") (unit 1)
         )
@@ -5908,7 +5908,7 @@
     (pin "5" (uuid fea013f2-138b-4caf-87f7-7398b80c1bde))
     (pin "4" (uuid a127c497-5fae-4065-b952-3591eb8d5ece))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "U2") (unit 1)
         )
@@ -5933,7 +5933,7 @@
     )
     (pin "1" (uuid 0950c408-ad7a-4a23-8713-55b0615cf22c))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "TP1") (unit 1)
         )
@@ -5959,7 +5959,7 @@
     (pin "1" (uuid a97cf5cb-673b-4b8d-8927-9b5951d13f7b))
     (pin "2" (uuid 09367a14-18b8-488c-a1a4-e986030b4785))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "R6") (unit 1)
         )
@@ -5984,7 +5984,7 @@
     )
     (pin "1" (uuid 5ab1da84-fe9f-4aa7-b9cc-e11ee57411ef))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR026") (unit 1)
         )
@@ -6013,7 +6013,7 @@
     (pin "2" (uuid 804666d7-769a-4159-93fe-c35bbb29518a))
     (pin "1" (uuid 6a45e223-ec77-464f-8788-d891024e5b8e))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "SW1") (unit 1)
         )
@@ -6038,7 +6038,7 @@
     )
     (pin "1" (uuid 944f7ce8-fe2f-4f46-9f39-4b42345e2942))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR043") (unit 1)
         )
@@ -6064,7 +6064,7 @@
     (pin "1" (uuid 7961e70d-fe9e-43a5-b3f0-c654c7cf50b4))
     (pin "2" (uuid 7424e168-1514-4f89-8fd4-a57f4d2f701e))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C4") (unit 1)
         )
@@ -6089,7 +6089,7 @@
     )
     (pin "1" (uuid d5689b76-fa8b-4d3f-8cd4-c6e23e58a6b8))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR028") (unit 1)
         )
@@ -6114,7 +6114,7 @@
     )
     (pin "1" (uuid 31c70000-e1cf-4131-85d7-8d641b8e48de))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "TP6") (unit 1)
         )
@@ -6140,7 +6140,7 @@
     (pin "1" (uuid 7babe7fa-18db-4256-aa88-652b8c3b41d3))
     (pin "2" (uuid b767307a-cdfe-458b-9fae-0f7c812cbaaa))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C1") (unit 1)
         )
@@ -6166,7 +6166,7 @@
     (pin "1" (uuid bc37d0d6-62da-41df-a30b-24bcddcd93ba))
     (pin "2" (uuid 365bb888-408d-4825-9843-05118a85dffd))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C8") (unit 1)
         )
@@ -6191,7 +6191,7 @@
     )
     (pin "1" (uuid da822d62-b0f4-4b91-94e0-0349949be97f))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR012") (unit 1)
         )
@@ -6216,7 +6216,7 @@
     )
     (pin "1" (uuid 74c44f3d-eab8-4d00-8b02-17909501de2a))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR05") (unit 1)
         )
@@ -6242,7 +6242,7 @@
     (pin "1" (uuid 5598ad50-6c05-4352-8403-e6af7a9774c3))
     (pin "2" (uuid e79c6b81-b0d4-4f54-8be8-f1520f406a10))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "C3") (unit 1)
         )
@@ -6268,7 +6268,7 @@
     (pin "2" (uuid 0104ba10-d29c-49a1-8878-7f4d5820c8a0))
     (pin "1" (uuid 546e1f95-b610-4ed8-924a-b8f80178ddf2))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "D3") (unit 1)
         )
@@ -6293,7 +6293,7 @@
     )
     (pin "1" (uuid 14d17234-761b-4982-b6e5-a5a4d6284e1e))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR01") (unit 1)
         )
@@ -6318,7 +6318,7 @@
     )
     (pin "1" (uuid 1cecd476-e06e-43b5-9ed5-5261e1885a85))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR036") (unit 1)
         )
@@ -6343,7 +6343,7 @@
     )
     (pin "1" (uuid f346159b-75f1-4937-871a-78463b5d1629))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR024") (unit 1)
         )
@@ -6368,7 +6368,7 @@
     )
     (pin "1" (uuid 87dcf307-5de4-43f9-bc33-80b50651c8b1))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR07") (unit 1)
         )
@@ -6393,7 +6393,7 @@
     )
     (pin "1" (uuid 1ad84e84-77d4-45f0-8c3e-3ceb3a2cc429))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR037") (unit 1)
         )
@@ -6418,7 +6418,7 @@
     )
     (pin "1" (uuid 381d99ff-8796-4703-b2eb-3e25a84b16ac))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR017") (unit 1)
         )
@@ -6444,7 +6444,7 @@
     (pin "1" (uuid c6f7d0ff-fae1-4231-8d45-e97e51916813))
     (pin "2" (uuid 33245886-935c-431b-8e32-b0a9a50df5f7))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "R7") (unit 1)
         )
@@ -6469,7 +6469,7 @@
     )
     (pin "1" (uuid ae82eb3a-74f8-488f-bca1-144cc5448be1))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "#PWR030") (unit 1)
         )
@@ -6510,7 +6510,7 @@
     (pin "B12" (uuid 3c812017-cefc-4ba1-8870-ce312d0a2ae7))
     (pin "B4" (uuid e6f62c51-0fa2-4ba7-a34a-702a87d5be6f))
     (instances
-      (project "fpv-hdmi-v2"
+      (project "fpv-video-in-v1"
         (path "/3da044ea-e9a8-439e-a7e1-f818aba28691"
           (reference "J4") (unit 1)
         )

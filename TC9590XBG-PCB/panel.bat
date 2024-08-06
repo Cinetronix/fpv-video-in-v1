@@ -7,4 +7,4 @@ kikit panelize ^
     --fiducials "3fid; hoffset: 5mm; voffset: 2.5mm; coppersize: 2mm; opening: 1mm;" ^
     --text "simple; text: Cinetronix Video input v1.1a; anchor: mt; voffset: 2.5mm; hjustify: center; vjustify: center;" ^
     --post "millradius: 1mm" ^
-    fpv-hdmi-v2.kicad_pcb Panel/panel.kicad_pcb
+    fpv-video-in-v1.kicad_pcb Panel/panel.kicad_pcb
