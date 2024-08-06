@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS5MP645YFPR
+D 1.5-pF, 5-V, 2:1 (SPDT), 10-channel MIPI analog switch with powered-off protection & 1.8-V logic
+K
+F https://www.ti.com/lit/ds/symlink/ts5mp645.pdf
+$ENDCMP
+#
+#End Doc Library

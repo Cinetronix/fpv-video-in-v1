@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPD6E05U06RVZR
+D 6-Channel Ultra-Low-Capacitance IEC ESD Protection Diodes
+K
+F http://www.ti.com/lit/gpn/tpd6e05u06
+$ENDCMP
+#
+#End Doc Library
