@@ -188,6 +188,10 @@
           "drill": 0.2
         },
         {
+          "diameter": 0.5,
+          "drill": 0.35
+        },
+        {
           "diameter": 0.6,
           "drill": 0.3
         },
@@ -421,7 +425,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "fpv-hdmi.kicad_pro",
+    "filename": "DF56C-26S-breakout-board.kicad_pro",
     "version": 1
   },
   "net_settings": {

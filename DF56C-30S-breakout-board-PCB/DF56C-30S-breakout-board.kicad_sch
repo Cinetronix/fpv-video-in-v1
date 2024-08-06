@@ -1136,7 +1136,7 @@
     (pin "22" (uuid fbd489b4-0f11-4732-a2e3-2c7a1a2d25b6))
     (pin "21" (uuid 0bb08ab5-1f2b-481a-adf7-c7100feda8e6))
     (instances
-      (project "fpv-hdmi"
+      (project "DF56C-30S-breakout-board"
         (path "/79d8969d-db35-413a-942a-b2e023816323"
           (reference "J1") (unit 1)
         )
@@ -1161,7 +1161,7 @@
     )
     (pin "1" (uuid b5e4a13d-3281-4809-8d2d-0efce7b8e588))
     (instances
-      (project "fpv-hdmi"
+      (project "DF56C-30S-breakout-board"
         (path "/79d8969d-db35-413a-942a-b2e023816323"
           (reference "H3") (unit 1)
         )
@@ -1186,7 +1186,7 @@
     )
     (pin "1" (uuid 7e06c70a-628e-4611-bb38-874d6898fd76))
     (instances
-      (project "fpv-hdmi"
+      (project "DF56C-30S-breakout-board"
         (path "/79d8969d-db35-413a-942a-b2e023816323"
           (reference "H4") (unit 1)
         )
@@ -1211,7 +1211,7 @@
     )
     (pin "1" (uuid 1eebec06-59a1-452a-84c7-68c75011a76d))
     (instances
-      (project "fpv-hdmi"
+      (project "DF56C-30S-breakout-board"
         (path "/79d8969d-db35-413a-942a-b2e023816323"
           (reference "H1") (unit 1)
         )
@@ -1236,7 +1236,7 @@
     )
     (pin "1" (uuid 1f171e77-5956-4352-9422-f26ec093276f))
     (instances
-      (project "fpv-hdmi"
+      (project "DF56C-30S-breakout-board"
         (path "/79d8969d-db35-413a-942a-b2e023816323"
           (reference "#PWR01") (unit 1)
         )
@@ -1290,7 +1290,7 @@
     (pin "14" (uuid 1a39a7b3-0760-439d-9c36-d4f1c5ee087e))
     (pin "8" (uuid 87cd58e2-42fa-4af0-afc7-1b37cc06b86e))
     (instances
-      (project "fpv-hdmi"
+      (project "DF56C-30S-breakout-board"
         (path "/79d8969d-db35-413a-942a-b2e023816323"
           (reference "J2") (unit 1)
         )
@@ -1315,7 +1315,7 @@
     )
     (pin "1" (uuid d820b8bb-f135-46c3-9901-93f1bb0dd679))
     (instances
-      (project "fpv-hdmi"
+      (project "DF56C-30S-breakout-board"
         (path "/79d8969d-db35-413a-942a-b2e023816323"
           (reference "H2") (unit 1)
         )
@@ -1340,7 +1340,7 @@
     )
     (pin "1" (uuid cdb97006-7103-47ed-88bc-bad16394e7b0))
     (instances
-      (project "fpv-hdmi"
+      (project "DF56C-30S-breakout-board"
         (path "/79d8969d-db35-413a-942a-b2e023816323"
           (reference "#PWR02") (unit 1)
         )
