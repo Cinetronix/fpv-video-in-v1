@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DF56C-26S")(type "KiCad")(uri "${KIPRJMOD}/lib/DF56C-26S-0.3V_51_/KiCad")(options "")(descr ""))
+  (lib (name "TS5MP645YFPR")(type "KiCad")(uri "${KIPRJMOD}/lib/TS5MP645YFPR/KiCad")(options "")(descr ""))
+)
