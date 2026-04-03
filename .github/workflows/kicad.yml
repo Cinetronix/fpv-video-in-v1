@@ -64,7 +64,7 @@ jobs:
           pcb_output_layers: "F.Cu,F.Silkscreen,F.Mask,B.Cu,B.Silkscreen,B.Mask,Edge.Cuts"
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         if: always()
         with:
           name: ${{ matrix.name }}
