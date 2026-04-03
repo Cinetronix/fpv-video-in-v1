@@ -15,11 +15,10 @@ on:
       - ".github/workflows/kicad.yml"
 
 jobs:
-  kicad-ci:
+  checks:
     runs-on: ubuntu-latest
-    container:
-      image: kicad/kicad:9.0
     strategy:
+      fail-fast: false
       matrix:
         include:
           - name: TC9590XBG
@@ -37,54 +36,27 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Run DRC
-        continue-on-error: true
-        env:
-          BOARD_DIR: ${{ matrix.dir }}
-          BOARD_BASE: ${{ matrix.base }}
-        run: |
-          kicad-cli pcb drc \
-            --output "$BOARD_DIR/drc-report.json" \
-            --format json \
-            --severity-all \
-            "$BOARD_DIR/$BOARD_BASE.kicad_pcb"
-
       - name: Run ERC
         continue-on-error: true
-        env:
-          BOARD_DIR: ${{ matrix.dir }}
-          BOARD_BASE: ${{ matrix.base }}
-        run: |
-          kicad-cli sch erc \
-            --output "$BOARD_DIR/erc-report.json" \
-            --format json \
-            --severity-all \
-            "$BOARD_DIR/$BOARD_BASE.kicad_sch"
+        uses: actions-for-kicad/kicad-actions@v1.6-k9.0
+        with:
+          schematic_file_name: ./${{ matrix.dir }}/${{ matrix.base }}.kicad_sch
+          run_erc: true
+          schematic_output_pdf: true
 
-      - name: Export schematic PDF
-        env:
-          BOARD_DIR: ${{ matrix.dir }}
-          BOARD_BASE: ${{ matrix.base }}
-        run: |
-          kicad-cli sch export pdf \
-            --output "$BOARD_DIR/schematic.pdf" \
-            "$BOARD_DIR/$BOARD_BASE.kicad_sch"
+      - name: Run DRC
+        continue-on-error: true
+        uses: actions-for-kicad/kicad-actions@v1.6-k9.0
+        with:
+          pcb_file_name: ./${{ matrix.dir }}/${{ matrix.base }}.kicad_pcb
+          run_drc: true
 
-      - name: Export board PDF
-        env:
-          BOARD_DIR: ${{ matrix.dir }}
-          BOARD_BASE: ${{ matrix.base }}
-        run: |
-          kicad-cli pcb export pdf \
-            --output "$BOARD_DIR/board-front.pdf" \
-            --layers "F.Cu,F.Silkscreen,F.Mask,Edge.Cuts" \
-            --include-border-title \
-            "$BOARD_DIR/$BOARD_BASE.kicad_pcb"
-          kicad-cli pcb export pdf \
-            --output "$BOARD_DIR/board-back.pdf" \
-            --layers "B.Cu,B.Silkscreen,B.Mask,Edge.Cuts" \
-            --include-border-title \
-            "$BOARD_DIR/$BOARD_BASE.kicad_pcb"
+      - name: Export board PDFs
+        uses: actions-for-kicad/kicad-actions@v1.6-k9.0
+        with:
+          pcb_file_name: ./${{ matrix.dir }}/${{ matrix.base }}.kicad_pcb
+          pcb_output_pdf: true
+          pcb_output_layers: "F.Cu,F.Silkscreen,F.Mask,B.Cu,B.Silkscreen,B.Mask,Edge.Cuts"
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
@@ -92,8 +64,7 @@ jobs:
         with:
           name: ${{ matrix.name }}
           path: |
-            ${{ matrix.dir }}/drc-report.json
-            ${{ matrix.dir }}/erc-report.json
-            ${{ matrix.dir }}/schematic.pdf
-            ${{ matrix.dir }}/board-front.pdf
-            ${{ matrix.dir }}/board-back.pdf
+            *.erc
+            *.drc
+            *.rpt
+            *.pdf
