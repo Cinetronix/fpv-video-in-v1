@@ -38,26 +38,26 @@ jobs:
 
       - name: Run ERC
         continue-on-error: true
-        uses: actions-for-kicad/kicad-actions@v1.6-k9.0
+        uses: actions-for-kicad/kicad-actions@v1.6-k9.0.4
         with:
           schematic_file_name: ./${{ matrix.dir }}/${{ matrix.base }}.kicad_sch
           run_erc: true
 
       - name: Export schematic PDF
-        uses: actions-for-kicad/kicad-actions@v1.6-k9.0
+        uses: actions-for-kicad/kicad-actions@v1.6-k9.0.4
         with:
           schematic_file_name: ./${{ matrix.dir }}/${{ matrix.base }}.kicad_sch
           schematic_output_pdf: true
 
       - name: Run DRC
         continue-on-error: true
-        uses: actions-for-kicad/kicad-actions@v1.6-k9.0
+        uses: actions-for-kicad/kicad-actions@v1.6-k9.0.4
         with:
           pcb_file_name: ./${{ matrix.dir }}/${{ matrix.base }}.kicad_pcb
           run_drc: true
 
       - name: Export board PDFs
-        uses: actions-for-kicad/kicad-actions@v1.6-k9.0
+        uses: actions-for-kicad/kicad-actions@v1.6-k9.0.4
         with:
           pcb_file_name: ./${{ matrix.dir }}/${{ matrix.base }}.kicad_pcb
           pcb_output_pdf: true
